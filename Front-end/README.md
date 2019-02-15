@@ -1,0 +1,1 @@
+A point-of-sale system built with React, QuaggaJS
